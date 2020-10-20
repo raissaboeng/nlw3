@@ -1,5 +1,5 @@
 <h1 align="center">
-    Happy       />
+    Happy
 </h1>
 
 ## 🚀 Tecnologias
